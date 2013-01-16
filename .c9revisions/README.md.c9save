@@ -1,0 +1,4 @@
+{"ts":1358334671606,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"cloud9-test\n===========\n\nDummy repo for testing purpose"]],"start1":0,"start2":0,"length1":0,"length2":55}]],"length":55}
+{"contributors":[],"silentsave":true,"ts":1358335108119,"patch":[[{"diffs":[[0," purpose"],[1,"\n"]],"start1":47,"start2":47,"length1":8,"length2":9}]],"length":56,"saved":false}
+{"ts":1358335109668,"patch":[[{"diffs":[[0,"purpose\n"],[1,"\n"]],"start1":48,"start2":48,"length1":8,"length2":9}]],"length":57,"saved":false}
+{"contributors":[],"silentsave":true,"ts":1358335127749,"patch":[[{"diffs":[[0,"urpose\n\n"],[1,"This line has been created in Cloud9"]],"start1":49,"start2":49,"length1":8,"length2":44}]],"length":93,"saved":false}
